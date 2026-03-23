@@ -6,7 +6,7 @@ class This_paraCons{
         System.out.println(a);
     }
     public static void main(String[] args) {
-        This_paraCons r = new This_paraCons(333);
+        This_paraCons r = new This_paraCons(33);
         
     }
 }
