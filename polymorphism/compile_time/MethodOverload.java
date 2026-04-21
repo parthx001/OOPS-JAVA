@@ -1,4 +1,3 @@
-
 public class MethodOverload {
     void add(){
         int a=10,b=20;
@@ -19,7 +18,5 @@ public class MethodOverload {
         obj.add();
         obj.add(25,360);
         obj.add(20,23.66);
-
-
     }
 }
