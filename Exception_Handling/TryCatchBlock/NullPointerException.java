@@ -1,3 +1,4 @@
+package Exception_Handling;
 class NullPointerException{
     public static void main(String[] args) {
         String n = null;
