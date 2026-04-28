@@ -6,7 +6,7 @@ class NumberFormatException{
             System.out.println(a);
         } 
         catch (java.lang.NumberFormatException n) {
-            System.out.println("String" + str + "can't be formated");
+            System.out.println("String " + str + " can't be formated");
         }
     }
 }
